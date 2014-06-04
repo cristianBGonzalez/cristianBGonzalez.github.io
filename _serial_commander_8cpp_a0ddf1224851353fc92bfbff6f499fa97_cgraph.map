@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_yeti_lib_1_1minicom__client.html#a773247ea8a94b5c29a320d94a37ae0e9" title="return true if the socket is still active " alt="" coords="104,5,261,47"/>
+<area shape="rect" id="node3" href="$class_yeti_lib_1_1minicom__client.html#a07b5966e002cb89c6fe1303a32abb516" title="pass the write data to the do_write function via the io service in the other thread ..." alt="" coords="104,71,261,112"/>
+<area shape="rect" id="node4" href="$class_yeti_lib_1_1minicom__client.html#a5e51735fb2e56d9b44350cde614dd801" title="call the do_close function via the io service in the other thread " alt="" coords="104,136,261,177"/>
+</map>

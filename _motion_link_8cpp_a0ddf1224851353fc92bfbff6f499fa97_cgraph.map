@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_motion_link_8cpp.html#a0c7bf323974fb9e6493aee459f7ab034" title="ROBOT ANIMATOR FUNCTION. " alt="" coords="160,5,228,32"/>
+<area shape="rect" id="node3" href="$class_s_a_f_1_1motion_1_1_motion_queue.html#ab934b9612d43c9c845bcb9b8cc57334e" title="SAF::motion::MotionQueue\l::is_good" alt="" coords="104,57,284,98"/>
+<area shape="rect" id="node4" href="$class_s_a_f_1_1motion_1_1_motion_queue.html#ab548770e88df913cd65146a496de5f10" title="SAF::motion::MotionQueue\l::dequeue" alt="" coords="104,122,284,163"/>
+<area shape="rect" id="node5" href="$_motion_link_8cpp.html#a87a7579006d4b08ff463c085443b869b" title="Convert torso turn position from degrees to duty cycle. " alt="" coords="138,188,250,215"/>
+<area shape="rect" id="node6" href="$_motion_link_8cpp.html#a13480fff3693019ce2f176df8b554636" title="Convert head turn position from degrees to duty cycle. " alt="" coords="139,239,249,265"/>
+<area shape="rect" id="node7" href="$_motion_link_8cpp.html#a4fca7db24ebee2a8a04e653d72543a2b" title="Convert head nod position from degrees to duty cycle. " alt="" coords="139,289,249,316"/>
+</map>

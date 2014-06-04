@@ -1,0 +1,8 @@
+<map id="YetiLib::SerialConnection::SerialConnection" name="YetiLib::SerialConnection::SerialConnection">
+<area shape="rect" id="node2" href="$class_yeti_lib_1_1_serial_connection.html#a5782e6772d2cdabfeb9d74af2326b74c" title="common portion of the construction routines " alt="" coords="221,136,389,177"/>
+<area shape="rect" id="node3" href="$class_yeti_lib_1_1_serial_connection.html#a459c752e7d7717140edcf863cbac4b97" title="YetiLib::SerialConnection\l::set_baudRate" alt="" coords="437,5,605,47"/>
+<area shape="rect" id="node4" href="$class_yeti_lib_1_1_serial_connection.html#a1d2095f1cfb26cedc1da86232400980e" title="YetiLib::SerialConnection\l::set_byteSize" alt="" coords="437,71,605,112"/>
+<area shape="rect" id="node5" href="$class_yeti_lib_1_1_serial_connection.html#aca441905ffcc33f36d28921161b7126c" title="YetiLib::SerialConnection\l::set_stopBits" alt="" coords="437,136,605,177"/>
+<area shape="rect" id="node6" href="$class_yeti_lib_1_1_serial_connection.html#a3258f866a2376c016fb4f641d0ded86c" title="YetiLib::SerialConnection\l::set_parity" alt="" coords="437,201,605,243"/>
+<area shape="rect" id="node7" href="$class_yeti_lib_1_1_serial_connection.html#af16ca670301d706a4710ce02b0025f39" title="MUTATOR FUNCTIONS //. " alt="" coords="437,267,605,308"/>
+</map>

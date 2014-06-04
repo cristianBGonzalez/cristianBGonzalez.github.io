@@ -1,0 +1,4 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_s_a_f_1_1speech_1_1_speech_queue.html#a2348729b0509c8163e75f7027133b9f4" title="Check if message queue state is good. " alt="" coords="104,5,292,47"/>
+<area shape="rect" id="node3" href="$class_s_a_f_1_1speech_1_1_speech_queue.html#a6f2b4a4d55ff1bbe9a45560bc890a2b7" title="Dequeue recieve message from interprocess queue Retrieves packets from message queue and builds the m..." alt="" coords="104,71,292,112"/>
+</map>
